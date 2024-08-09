@@ -35,7 +35,7 @@ Run the face recognition script:
 
 ```bash
 python3 face_recognition.py
-
+```
 The script will start the webcam, detect faces, and recognize them based on the trained model. It will display the recognized names on the video feed.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -74,7 +74,7 @@ Run the hand gesture recognition script:
 
 ```bash
 python3 hand_gesture_recognition.py
-
+```
 The script will start the webcam, detect hand gestures, and classify them using the TensorFlow model. Based on the detected gesture, it will send commands to the Arduino via serial communication:
 
 Open Hand Gesture: Sets pin 4 to HIGH.
