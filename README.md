@@ -53,6 +53,6 @@ This project allows you to control a TurtleBot3 robot in a Gazebo simulation env
 4. The terminal will output whether the goal was reached successfully or if there was an issue.
 
 
-## Notes
+## Note
 
 There are two videos available that demonstrate navigation using two different map files.
