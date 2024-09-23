@@ -1,8 +1,8 @@
-# Face ID Recognition and Hand Gesture Recognition
+# Face ID and Hand Gesture Recognition
 
 This repository contains two Python scripts for face recognition and hand gesture recognition. Both scripts use OpenCV and other libraries to perform their respective tasks and interact with an Arduino for controlling digital pins based on detected gestures.
 
-## Face ID Recognition
+## Face ID
 
 This script performs face recognition using the Local Binary Patterns Histograms (LBPH) algorithm with OpenCV.
 
