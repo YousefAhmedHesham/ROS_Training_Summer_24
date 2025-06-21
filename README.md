@@ -81,6 +81,9 @@ Open Hand Gesture: Sets pin 4 to HIGH.
 Peace Gesture: Sets pin 5 to HIGH.
 Unknown Gesture: Turns off both pins.
 
+### Video
+https://github.com/user-attachments/assets/7319e236-6b21-4137-b069-6c62adfe3111
+
 # Troubleshooting
 
 Ensure the haarcascade_frontalface_default.xml and face_recognizer.yml files are in the correct paths.
