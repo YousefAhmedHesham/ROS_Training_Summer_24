@@ -18,3 +18,6 @@ The script utilizes ROS to control the turtle's movements by publishing velocity
 2. Run the turtlesim node:rosrun turtlesim turtlesim_node
 3. rosrun <your_package_name> <your_script_name>.py
 4. Input the desired x and y coordinates (both must be ≤ 11).
+   
+## Video
+https://github.com/user-attachments/assets/a2dfc96c-5538-4f1c-88e1-28bdb3ae7e68
