@@ -53,6 +53,10 @@ This project allows you to control a TurtleBot3 robot in a Gazebo simulation env
 4. The terminal will output whether the goal was reached successfully or if there was an issue.
 
 
-## Note
+## Video
 
 https://github.com/user-attachments/assets/03531966-8902-423f-a34d-5dba178ca7da
+
+## With Obstacle
+
+https://github.com/user-attachments/assets/489fc0c2-4937-4046-b56b-bc448f12f0b0
